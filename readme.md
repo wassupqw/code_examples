@@ -49,5 +49,6 @@
 # Task 4
 
 Расчет показателя из двух таблиц и автоматическая рассылка результата.
+
 [Решение](https://github.com/wassupqw/code_examples/blob/main/Python/Python.ipynb)
 
